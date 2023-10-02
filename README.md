@@ -10,7 +10,7 @@ Last Updated: March 2023
 * [Setup](#setup)
    
 ## General Info
-This project is a react application of a weather app taken from https://openweathermap.org's API. It displays an image and search bar on the left hand side and the current forecast along with the upcoming day ahead. This weather app uses React useState for state management, react-icons for styling, moment for parsing data objects, and environment variables.
+This project is a react application of a weather app taken from https://openweathermap.org's API. It displays an image and search bar on the left hand side and the current forecast along with the upcoming day ahead on the right hand side. This weather app uses React useState for state management, react-icons for styling, moment for parsing data objects, and environment variables.
 
 ## Reflection
 Some things that can be improved would be to create a smoother responsive design and fixing some bugs such as tracking live location accurately and changing padding value(not my preference). This application can also be expanded by adding an 8-day forecast or a forecast map.
