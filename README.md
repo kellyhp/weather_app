@@ -17,9 +17,10 @@ Some things that can be improved would be to create a smoother responsive design
 
 ## Technologies
 Project is created with:
-- CLion 2022.2.1 (can use any other IDE that is C++/C compatible)
-- CMake (VERSION 3.15.3)
-- CMAKE 14
+- Visual Studio Code
+- HTML, CSS, JS
+- Openweathermap
+- React
 
 ## Setup 
 To run this project, download the github zip file and open it on a code editor. Then run it on the terminal with
